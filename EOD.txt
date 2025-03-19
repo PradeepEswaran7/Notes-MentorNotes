@@ -1,0 +1,594 @@
+1.	Java JDK - version 17
+2.	Eclipse IDE (Enterprise Edition)----
+3.	Spring Tool Suite(STS)----
+4.	VS Code (React & Angular)-----
+5.	Node JS - Version 12---
+6.	MySQL Workbench-----
+7.	Notepad++
+8.	Postman
+9.	IntelliJ - IDE Edition 2022
+
+EOD Status (12/02/2024)
+Explore the concept of separation of concerns and JSP tags, and also review few questions provided by seniors.
+
+EOD Status (13/02/2024)
+Today, I completed the implementation of the Promotion model, including functionalities for reading and creating promotions, as required by the task
+
+EOD Status (14/02/2024)
+Today, I completed implementing the CRUD operations for promotions and learned how to establish a relationship between groups and promotions. After mapping, I was able to retrieve promotion data inside the group data for the given task.
+
+EOD Status (19/02/2024)
+Explore ORM and implement create, read (CRUD) operations for the Group table, which has a one-to-many relationship with the Promotion table using ORM.
+
+EOD Status (20/02/2024)
+Implement CRUD operations for the Group table and add/get promotions for a particular group using the group ID
+
+EOD Status (21/02/2024)
+Completed the task of implementing CRUD operations for the Group and Promotion entities, which are mapped with a many-to-one relationship, in a Spring Boot application
+
+EOD Status (22/02/2024)
+Exploring unit test cases for the CRUD operations
+
+EOD Status (23/02/2024)
+Exploring unit testing with JUnit in a Spring Boot environment.
+
+EOD Status (26/02/2024)
+Started implementing unit test cases for the given task.
+
+EOD Status (27/02/2024)
+Completed unit test cases for the group service class in a given task.
+
+EOD Status (28/02/2024)
+Attended daily scrum call. Implementing unit test cases for the promotion and exploring JMeter for the Friday presentation.
+
+EOD Status (29/02/2024)
+I have prepared a PowerPoint presentation on the topic of Apache JMeter, focusing on its features, how to create and execute test plans, analyzing test results, and emphasizing the importance of performance testing in software development
+
+EOD Status (01/03/2024)
+Presented a PowerPoint on JMeter and executed unit test cases for the Promotion table.
+
+EOD Status (04/03/2024)
+Exploring topics related to Angular.
+
+EOD Status (05/03/2024)
+Exploring Angular topics and working on Angular installation.
+
+EOD Status (06/03/2024)
+Exploring and implemented Angular topics such as Angular architecture, folder structure, components, and modules.
+
+EOD Status (07/03/2024)
+Exploring and has started implementing CRUD operations in Angular.
+
+EOD Status (08/03/2024)
+implementing CRUD operations in Angular.
+
+EOD Status (11/03/2024)
+Implementing CRUD operations, connected a Spring Boot backend to an Angular frontend, and fetched data.
+
+EOD Status (12/03/2024)
+Explored routing and implemented create and read operations for the group table.
+
+EOD Status (13/03/2024)
+Implemented CRUD Operations for group table.
+
+EOD Status (14/03/2024)
+Implementing CRUD operations for the Promotion table in Angular, which is mapped with the Group table.
+
+EOD status (15/03/2024)
+Implemented CRUD Operation for both group and promotion table.
+
+EOD status (18/03/2024)
+Working on a sample UI screen using HTML, CSS, and Angular.
+
+EOD Status(29/03/2024)
+Discussing the project with the team
+
+EOD Status(04/04/2024)
+Implemented a sample modal pop-up UI screen and exploring the working project code, as well as Angular Material.
+
+EOD Status(15/04/2024)
+Implemented some features, worked on making the pop-up screen responsive, and explored CSS concepts.
+
+EOD Status(17/04/2024)
+Worked on the existing code with a dynamically adjustable reusable component and exploring the existing code concepts.
+
+EOD Status(18/04/2024)
+working on the existing code by implementing a dynamically reusable component.
+
+EOD Status(22/04/2024)
+Working on an add-term step 1 0f 2 and step 2 of 2 component reusable in the existing code.
+
+EOD Status(23/04/2024)
+Exploring Angular routing - eager loading and lazy loading, as well as exploring and implementing reusable code within the existing code.
+
+EOD Status(24/04/2024)
+Exploring routing in Angular 17, the concept of content projection within the existing code, and JavaScript concepts.
+
+EOD Status(25/04/2024)
+Exploring the HttpInterceptor concept in Angular, the Figma design of the existing project, and attending a call with seniors for knowledge transfer regarding the add-term component.
+
+EOD Status(26/04/2024)
+Attend a team presentation on Spring Security, Exploring topics like Authentication, Authorization, Session Management, and JWT Authentication, and exploring the existing code related to promotion management.
+
+EOD Status(29/04/2024)
+Implemented a reusable dropdown component in the project.
+
+EOD Status(30/04/2024)
+Worked on implementing a reusable dropdown component within the promotion management feature of the project and performed push and pull operations in GitLab.
+
+EOD Status(02/05/2024)
+Working on the Companies & Shops page, to modify the "Other Options" section based on the selection made in the organization level card.
+
+EOD Status(03/05/2024)
+Implemented the modification of the content within the Other Options card based on the selection made in the Organization Level card within the Companies & Shops module of the promotion management component.
+
+EOD Status(06/05/2024)
+Working on the Clusters card chip within the Companies and Shop component, after adding the chip, now it displays both an ID and a display name.
+
+EOD Status(07/05/2024)
+Working on the Clusters card chip within the Companies and Shop component, if the content extends beyond the chip's width, it will wrap accordingly, and currently working on implementing the functionality for the discard button.
+
+EOD Status(08/05/2024)
+Worked on implementing the functionality for the discard button. When it's clicked, the selected values will be deselected, and will be redirected to the previous page.
+
+EOD Status(09/05/2024)
+Implemented the code for the chip component to wrap where it extends beyond its card. Working on implementing functionality in the menu bar to display the active button and show dropdown menus upon mouseover.
+
+EOD Status(10/05/2024)
+The functionality in the menu bar has been implemented to display the active button and show dropdown menus upon mouseover, It also hides the dropdown menus upon mouse leave. Working on aligning the card on the promotion configuration page.
+
+EOD Status(13/05/2024)
+Implementing functionality in the menu bar, and aligning the promotion type card buttons on the promotion configuration page.
+
+EOD Status(14/05/2024)
+Implementing the terms component within the Advertisement Management
+
+EOD Status(15/05/2024)
+Worked on implementing separate discard functionality for promotions and advertising, and implemented the terms component screen within the Advertisement Management.
+
+EOD Status(16/05/2024)
+Explored the concepts of @ViewChild and @ViewChildren working on the Promotion Management component, and implementing the Terms component screen within the Advertisement Management.
+
+EOD Status(17/05/2024)
+Explored the Jest framework for unit testing and worked on implementing the discard function for the add terms dialog.
+
+EOD Status(20/05/2024)
+Implemented separate discard functions for promotions and advertising, and added a discard function for add-terms, which closes two dialogs. Explored PrimeNG table functionalities.
+
+EOD Status(21/05/2024)
+Implementing functionalities for the stepper component to enable navigation upon clicking the stepper icon.
+
+EOD Status(22/05/2024)
+Working on implementing the stepper component in PrimeNG.
+
+EOD Status(27/05/2024)
+Working on implementing the stepper component in PrimeNG.
+
+EOD Status(28/05/2024)
+Working on wrapping the stepper label below the stepper panel and implementing functionality for the stepper component in PrimeNG.
+
+EOD Status(29/05/2024)
+Implementing the stepper component in PrimeNG. Working on adding functionality to it and implemented the label wrapping feature according to the Figma design in the sample project. Now, adding it to the main project.
+
+EOD Status(04/06/2024)
+Implemented the All Terms table in the advertisement management section using PrimeNG within the sample project and working on the ‘Billing Currencies’ table into the same screen.
+
+EOD Status(05/06/2024)
+Implemented an ID element for the date input field and button in the promotion management and advertisement management of the project.
+
+EOD Status(06/06/2024)
+implementing the ID element for the Promotion Details and Companies & Shops page and attended a Mentorship Programme meeting.
+
+EOD Status(07/06/2024)
+Worked on adding a PrimeNG table in the terms page and implemented the ID element for the promotion details page.
+
+EOD Status(10/06/2024)
+Implemented the All Terms table and working on implementing the Billing Currencies table and alignment in the terms page in the advertisement management.
+
+EOD Status(11/06/2024)
+Implemented the All Terms and Billing Currencies tables reusably in the Terms page. Working on adding data for the Billing Currencies table and aligning the page.
+
+EOD Status(13/06/2024)
+Attended a React session conducted by seniors and explored React topics such as: What is React, Creating a React project, React components, and Props. Prepared a PowerPoint presentation on the difference between ChatGPT and Google Search Engine for the mentorship program.
+
+EOD Status(18/06/2024)
+Exploring and implementing concepts like JavaScript fundamentals, arrays, functions, React project structure, state, props, and adding CSS and Bootstrap in React.
+
+EOD Status(19/06/2024)
+Exploring and implementing concepts like modal windows, function expressions, array iteration methods, ES6, JSX and Redux ToolKit.
+
+EOD Status(20/06/2024)
+1.Explored and implemented React concepts such as Array Destructuring, Spread Operator, Modules, rendering HTML, components, classes, props, events, and hooks. 
+2.Attended a Mentor Programming meeting and presented a PowerPoint on the topic of ChatGPT vs. Google Search Engine. 
+3.Working on implementing a task given by sakthi.
+
+EOD Status(21/06/2024)
+1. Working on implementing the Mail content table UI, able to display data based on a dropdown icon. 
+2. Attended a React session conducted by Sakthi.
+
+EOD Status(24/06/2024)
+Working on implementing the mail content table UI, now able to display multiple data entries based on a dropdown icon within the vertical line. Working on the service to fetch data from the Node.js backend.
+
+EOD Status(25/06/2024)
+Implemented the email content table UI and working on displaying data based on how it's stored in the backend.
+
+EOD Status(26/06/2024)
+Implemented the email content table UI and working on routing.
+
+EOD Status(26/06/2024)
+Implemented the email content table UI and routed it with the menu component. I am exploring React concepts.
+
+EOD Status(28/06/2024)
+1. Integrating the project and exploring React concepts.
+2. Attended the CMS session taken by Sakthi and exploring it.
+
+EOD Status(01/07/2024)
+1. Integrating the project and exploring React concepts for it.
+2. Attended the Custom Hooks taken by Vignesh.
+
+EOD Status(02/07/2024)
+Integrating the project and exploring React concepts for it.
+
+EOD Status(03/07/2024)
+1. Exploring and implementing CSS concepts such as Flexbox and Grid, as well as React concepts like rendering the root component, incorporating JavaScript logic in components, Creating and reusing a Component and styling a React application. 
+2. Preparing a presentation for mentor programming.
+
+EOD Status(04/07/2024)
+1. Exploring and implementing React concepts such as Asynchronous Javascript Promises, Asynchronous Javascript Asyn/Await, Optional Chaining and Contional Rendering.
+2. Prepared a project presentation for mentor programming.
+
+EOD Status(05/07/2024)
+Exploring and implementing React concepts such as Handling Events, Adding another Piece of State, Updating state based on Current state and JEST for unit testing
+
+EOD Status(10/07/2024)
+Exploring and implementing React concepts such as Handling Events, Adding another Piece of State, Updating state based on Current state and JEST for unit testing
+
+EOD Status(11/07/2024)
+Exploring and implementing React concepts such as forms, routing, memo, redux toolkip and Jest for unit testing.
+
+EOD Status(15/07/2024)
+Exploring and implementing Jest in the project.
+
+EOD Status(16/07/2024)
+Exploring and implementing Jest in my project and have also explored React concepts, CSS styling, and Sass styling.
+
+EOD Status(17/07/2024)
+Exploring and implementing Jest concepts such as using matchers, truthiness, arrays and iterables, and exceptions, and working on adding Jest to projects.
+
+EOD Status(18/07/2024)
+Exploring and implementing Jest concepts such as testing asynchronous code, setup and teardown, and mock functions, working on writing test cases for the mail content component
+
+EOD Status(19/07/2024)
+Explored framework guides for testing React applications and implemented a few test cases for the MailContent component.
+
+EOD Status(22/07/2024)
+Implemented test cases for the MailContent component with 100% code coverage
+
+EOD Status(23/07/2024)
+Explored writing and running specific test cases, AEM, and AEM features and benefits.
+
+EOD Status(24/07/2024)
+Explored React concepts such as hooks, useState, useEffect, useContext, and useRef, and practiced React exercises in each category, topic-wise in React.
+
+EOD Status(25/07/2024)
+1. Explored different methods in testing concepts.
+2. Explored React concepts such as useReducer, useCallback, useMemo, and CSS concepts like Flexbox and Grid.
+
+EOD Status(26/07/2024)
+1. Explored testing utilities such as screen, fireEvent, and expect
+2. Explored React hooks concepts and practiced React exercises topic-wise. 
+3. Explored Adobe Experience Manager.
+
+EOD Status(29/07/2024)
+1. Exploring debugging and practicing React exercises topic-wise. 
+2. Implementing concepts in a sample project
+
+EOD Status(30/07/2024)
+Implementing react concepts in sample project.
+
+EOD Status(31/07/2024)
+1. Implementing React concepts in a project.
+2. Exploring Adobe Experience Manager.
+
+EOD Status(01/08/2024)
+1. Exploring and implementing React concepts in a sample project.
+2. Explored AI functionality for a mentor meeting and attended a mentorship program where we discussed innovative ideas and AI operations.
+
+EOD Status(02/08/2024)
+Explored and implemented Redux Toolkit and React concepts in a sample project.
+
+EOD Status(05/08/2024)
+Exploring and implementing store management, methods, and slices in Redux and React concepts within a sample project.
+
+EOD Status(06/08/2024)
+Exploring and implementing store management, creating and using slices, and Redux methods in a sample React project.
+
+EOD Status(07/08/2024)
+Exploring and implementing React concepts such as creating reusable buttons and components with children props, along with Redux concepts, and practicing exercises.
+
+EOD Status(08/08/2024)
+Exploring and implementing React concepts like controlled elements, lifting up state, and child-to-parent communication, reusability with children prop in sample projects and practicing exercises. 
+
+EOD Status(09/08/2024)
+Exploring and implementing React concepts like Higher-Order Components, Render Props, and Redux, and practicing exercises.
+
+EOD Status(12/08/2024)
+Exploring and implementing React concepts like code splitting, lazy loading, rendering props between component and JavaScript concepts like the rest and spread operators, template literals, and practicing React exercises.
+
+EOD Status(13/08/2024)
+Exploring and implementing React concepts such as building stateful applications, concurrent mode, and Redux, and practicing exercises.
+
+EOD Status(14/08/2024)
+Started exploring C concepts along with MinGW and GCC.
+
+EOD Status(19/08/2024)
+1. Set up MinGW and run C programs using GCC in MinGW.
+2. Explored and practiced exercises on C programming basics.
+
+EOD Status(20/08/2024)
+Exploring and practicing exercises on C programming concepts and understanding how it differs from Java.
+
+EOD Status(21/08/2024)
+1. Explored and practiced exercises on C concepts like pointers and structures.
+2. Explored linked list concepts in C, including malloc, sizeof, and other related topics, with code provided by Sakthi.
+
+EOD Status(22/08/2024)
+1. Explored linked list concepts in C, including inserting and deleting nodes.
+2. Explored user-defined types like struct, and understanding of pointer declarations and how they are used to reference structures in C.
+
+EOD Status(23/08/2024)
+1. Explored and practiced exercises on C programming concepts.
+2. Attended an Apache Sling and OSGi session conducted by Kamesh and Kamarsaman.
+
+EOD Status(26/08/2024)
+1. Explored and practiced C programming concepts.
+2. Explored GCC via MinGW functionality and the compilation process.
+
+EOD Status(27/08/2024)
+1. Explored the compilation process and pointer concepts in the C language.
+2. Revised HTML, CSS, and JavaScript concepts and practiced exercises on them.
+
+EOD Status(28/08/2024)
+Practiced logical programming in JavaScript and exploring React concepts and implementing them in a sample project.
+
+EOD Status(29/08/2024)
+1. Practiced LeetCode problem in Java.
+2. Explored Java Spring Security, focusing on Stateful vs Stateless Authentication and JWT (JSON Web Tokens).
+
+EOD Status(30/08/2024)
+1. Exploring JWT authentication and compared traditional authentication with JWT authentication.
+2. Working on Implementing Java and MySQL code to explore Spring Security concepts.
+
+EOD Status(02/09/2024)
+1. Explored Spring Security configuration, set up project dependencies, and implemented traditional session-based authentication with Java and MySQL, then tested it using Postman.
+2. working on JWT-based authentication.
+
+EOD Status(03/09/2024)
+Explored and implementing Spring Security concepts, including the Security Filter Chain, and worked on different authentication methods such as Basic Authentication and JWT-based authentication.
+
+EOD Status(04/09/2024)
+1. Explored and implementing Spring Security concepts implementing a custom UserDetails and integrating it with UserService for user management.
+2. Set up and testing authentication, securing endpoints to ensure they are accessible only after a successful login. 
+3. Troubleshot authentication issues and handled 401 Unauthorized errors in Postman.
+
+EOD Status(05/09/2024)
+Implemented Spring Security configuration with in-memory authentication and connecting it with a database for user management, using various authentication methods.
+
+EOD Status(09/09/2024)
+Implemented stateless Spring Security authentication with a MySQL database, set up the configuration for JWT authentication, and working on it.
+
+EOD Status(10/09/2024)
+Implementing Spring Security with various authentication methods.
+
+EOD Status(11/09/2024)
+Implementing JWT-based authentication where a JWT is generated and returned to the client. For each request, the client sends the JWT in the Authorization header This ensures that only authenticated users can access secured endpoints, providing a secure and stateless authentication mechanism.
+
+EOD Status(12/09/2024)
+Implemented and debugged handling of 401, 403, and 500 errors related to JWT authentication, fixed issues in the authentication setup, and exploring different authentication methods.
+
+EOD Status(13/09/2024)
+1. Troubleshooted circular dependency, StackOverflowError issues in JWT-based authentication and implemented it.
+2. Exploring various authentication methods.
+
+EOD Status(16/09/2024)
+Implemented role-based access control within a project that uses JWT authentication.
+
+EOD Status(17/09/2024)
+1. Revised databases and different types of databases. 
+2. Explored session storage and the dispatch function in React.
+
+EOD Status(18/09/2024)
+1. Explored the authentication flow in Spring Boot with breakpoints.
+2. Explored carousel concept in React.
+
+EOD Status(19/09/2024)
+Explored and implemented a React sample project including concepts such as Carousel components, routing with React Router, navigation using useNavigate, and handling redirects within React Router.
+
+EOD Status(23/09/2024)
+Exploring databases and the different types of databases. 
+Exploring React concepts such as React Router, Link, NavLink, lifting state, and Redux.
+
+EOD Status(24/09/2024)
+Explored React concepts such as React Router, form handling and validation, conditional rendering, API integration, used them to a sample project.
+
+EOD Status(25/09/2024)
+Explored React concepts and implemented a Rock-Paper-Pencil-Scissor game as a sample project using React. This involved state management with hooks, conditional rendering, and handling user interactions.
+
+EOD Status(26/09/2024)
+Explored React concepts such as mapping over arrays, component rendering, state management and resetting, and organizing component structure. Implemented these concepts in a sample project.
+
+EOD Status(27/09/2024)
+Implemented a React sample project focusing on key concepts such as form handling and validation, API communication, state management using hooks, and the integration of third-party libraries like Bootstrap for UI design.
+
+EOD Status(30/09/2024)
+Explored Servlet concepts such as the Servlet lifecycle, request and response handling, request dispatching, and servlet configuration, session management.
+
+EOD Status(01/10/2024)
+Explored JSP concepts such as the JSP Lifecycle, JSP Directives, Scripting Elements, Implicit Objects, JSP Standard Tag Library (JSTL), implementing the MVC pattern using JSP, and handling form data in JSP.
+
+EOD Status(03/10/2024)
+Explored concepts in DBMS and RDBMS, with a SQL using MySQL, what SQL can achieve, various SQL commands, and different types of keys used in database management.
+
+EOD Status (04/10/2024)
+Explored SQL query concepts like subqueries, joins, set operations, the differences between NoSQL and SQL databases, when to choose NoSQL versus SQL, and the various types of NoSQL databases.
+
+EOD Status (07/10/2024)
+Explored and practiced MySQL database, functions.
+
+EOD Status (08/10/2024)
+Explored MySQL functions including String Functions, Date and Time Functions, Aggregate Functions, Mathematical Functions, Control Flow Functions, JSON Functions, and Full-Text Search Functions, and practiced applying them.
+
+EOD Status (09/10/2024)
+Explored Full-Text Search Functions, Window Functions, User-Defined Variables, and SQL Injection in databases, and practiced them.
+
+EOD Status (10/10/2024)
+Explored stored procedures and functions, SQL hosting in databases and practiced them.
+
+EOD Status (14/10/2024)
+Explored Server Function, Access Function and practised them.
+
+EOD Status (15/10/2024)
+Exploring React styling and creating a sample React application.
+
+EOD Status (16/10/2024)
+Exploring React styling like CSS Grid and Flexbox, and implementing them in a sample application to create a responsive design.
+
+EOD Status (17/10/2024)
+Implementing a responsive layout by combining CSS Grid and Flexbox in a sample react application.
+
+EOD Status (18/10/2024)
+Implemented a responsive card layout and integrated Material-UI for responsive design in a sample React application.
+
+EOD Status (21/10/2024)
+Implementing the Home React component utilizes Bootstrap's Carousel and joins a responsive grid layout, used  reusable components for scalability. 
+
+EOD Status (22/10/2024)
+1. Practiced solving card challenges.
+2. Understanding of sorting algorithms in Java, including Bubble Sort, Merge Sort, and Insertion Sort.
+
+EOD Status (23/10/2024)
+Exploring Material-UI and implementing responsive design screens in a sample React application.
+
+EOD Status (24/10/2024)
+Implementing a responsive screen in a React sample application including key concepts such as React Functional Components, Event Handling, Date Manipulation with date-fns, and Material-UI Icons.
+
+EOD Status (25/10/2024)
+Implementing a responsive menu component in a React sample application using concepts such as Date Manipulation with date-fns, Array and Object Manipulation, Material-UI Icons, and String Manipulation.
+
+EOD Status (28/10/2024)
+I am implementing a responsive menu component in a React sample application. I am having an issue with the monitor display and have asked the system admin for assistance. They informed me that the monitor will be changed in two days.
+
+EOD Status (29/10/2024)
+Implementing a page that includes a dialog, icons, and buttons. As of today, the monitor has not yet been replaced, and I am still experiencing display issues.
+
+EOD Status (30/10/2024)
+Implementing a responsive dialog component in a sample react application using Material UI. 
+
+EOD Status (1/11/2024)
+Implementing a page that contains tables and data display cards, using Material UI for icons in a sample application.
+
+EOD Status (05/11/2024)
+Implementing a page that utilizes Redux and Material UI icons, integrating concepts such as the store, actions, and reducers. 
+
+EOD Status (08/11/2024)
+1. Implemented file handling concepts in C, including opening, reading, and closing files using fopen, fgets, fread, and fclose, along with error handling for file access.
+2 Practiced dynamic memory allocation in C using malloc, and techniques to determine file size with ftell and fseek.
+
+EOD Status: 22/11/2024
+1. Implemented chunk-based file processing to handle large files by reading them in smaller chunks, to read files in a loop and process each chunk dynamically.
+2. Explored the concepts of functions and arrays in C.
+
+EOD Status (25/11/2024)
+Explored C programming concepts such as call by value, call by reference, recursion, and arrays, and practiced exercises related to these concepts.
+
+EOD Status (26/11/2024)
+Explored C programming concepts, including the relationship between arrays and pointers, accessing array elements via pointers, implementing pointer arithmetic, multidimensional arrays and their interaction with pointers, and practiced these concepts through exercises.
+
+EOD Status (27/11/2024)
+1. Explored concepts of function pointers, void pointers, and pointer-to-pointer, and practiced exercises to these topics.
+2. Explored data structures such as Singly Linked Lists and Doubly Linked Lists implemented using pointers, and practiced related exercises.
+
+EOD Status (28/11/2024)
+1. Explored and practiced pointer concepts such as dangling pointers, dereferencing pointers, const pointers, function pointers, and using function pointers as arguments.
+2. Explored and practiced string concepts, including string manipulation, string functions, and dynamic memory allocation for strings.
+
+EOD Status (29/11/2024)
+1. Explored and practiced structure concepts, like nested structures, arrays of structures, pointers to structures, and dynamic memory allocation for structures. 
+2. Explored and practised dynamic memory, file handling concepts, function pointers and callbacks.
+
+EOD Status (02/12/2024)
+1. Implemented linked lists and stacks using dynamic memory allocation and function pointers.
+2. Explored memory management techniques, including garbage collection strategies.
+
+EOD Status (03/12/2024)
+Explored and practiced implementing data structures including Simple Queue, Circular Queue, Priority Queue, as well as trees such as Binary Tree and Binary Search Tree (BST), along with related exercises.
+
+EOD Status (04/12/2024)
+Explored data structures like arrays, Trees, Hash Tables, and Heaps and practiced related exercises to these concepts.
+
+EOD Status (05/12/2024)
+Explored and practiced implementing data structures like Graphs BFS, Graphs DFS, Trie, and concepts like Dynamic Programming with exercises related to these topics.
+
+EOD Status (06/12/2024)
+Explored structures unions, math functions, preprocessor directives, and data structures, and practiced exercises to these concepts.
+
+EOD Status (09/12/2024)
+1. Practiced logical programming exercises.
+2. Explored storage classes in C and practiced exercises related to those concepts.
+
+EOD Status (10/12/2024)
+1. Explored storage classes, practiced related exercises, and logical problem exercises.
+2. Exploring the Makefile tool and implementing it in sample projects.
+
+EOD Status (11/12/2024)
+Worked on implementing a Makefile using the Make tool and practiced solving logical problem exercises.
+
+EOD Status (12/12/2024)
+1. Implemented a sample program compiled using a Makefile and explored related concepts. 
+2. Practiced logical programming exercises using structures, unions, and recursion.
+
+EOD Status (13/12/2024)
+Working on implementing a banking application using a multi-file structure and Makefiles for efficient compilation.
+
+EOD Status (16/12/2024)
+1. Worked on implementing a banking application using a modular multi-file architecture.
+2. Practiced logical programming exercises.
+
+EOD Status (17/12/2024)
+1. Implemented a banking application with a fixed-size user storage mechanism that issues a warning when the limit is exceeded, using a modular multi-file architecture. 
+2. practiced logical programming exercises.
+
+EOD Status (18/12/2024)
+Explored data structure concepts, practiced exercises related to those concepts, and worked on logical programming exercises.
+
+EOD Status (19/12/2024)
+Understanding the project ehps and I attended the knowledge transfer (KT) session.
+
+EOD Status (20/12/2024)
+Attended a knowledge transfer session on HPS Architecture, explored the differences between mainframe assembly code and C, and gained insights into the EHPS project.
+
+EOD Status (23/12/2024)
+Attended a knowledge transfer session on HPS database organization and architecture, gaining an understanding of the project's structure.
+
+EOD Status (24/12/2024)
+Exploring concepts in C programming and practicing related exercises.
+
+EOD Status (26/12/2024)
+Practiced data structure exercises and logical programming tasks.
+
+EOD Status (30/12/2024)
+Attended a conversation demo session, Understanding the concepts, and practiced logical programming exercises.
+
+EOD Status (31/12/2024)
+Practiced logical programming exercises and exploring C programming concepts.
+
+EOD Status (01/01/2024)
+Practiced logical programming exercises and exploring data structure concepts.
+
+EOD Status (02/01/2024)
+1. Exploring the project architecture, understanding the Relogix tool and conversational process.
+2. Attending a session, and analyzing the OBA7615 module.
+
+EOD Status (03/01/2024)
+1. Understanding the Batch processing architecture and batch conversion macros.
+2. Executing the OBA7615 module using the appropriate commands.

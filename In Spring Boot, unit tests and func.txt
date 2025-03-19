@@ -1,0 +1,17 @@
+In Spring Boot, unit tests and functionality tests (also known as integration tests or end-to-end tests) serve different purposes and focus on testing different aspects of your application.
+
+Unit Test Case:
+
+Purpose: Unit tests are focused on testing individual units or components of your application in isolation. These units are often classes or methods.
+Scope: They typically do not involve external dependencies such as databases, file systems, or network services. Mocking frameworks are often used to simulate the behavior of these dependencies.
+Example: Testing a service class method that calculates the total price of items in a shopping cart without actually interacting with a database or a payment gateway.
+Functionality Test Case:
+
+Purpose: Functionality tests, on the other hand, test the overall behavior of your application and how its components work together. They can be used to test the integration of different layers or modules.
+Scope: These tests often involve real or simulated external dependencies such as databases, file systems, or network services. The goal is to ensure that the application behaves correctly from end to end.
+Example: Testing an API endpoint that retrieves a list of products from a database, processes the data, and returns the result as JSON to the client. This test would involve interacting with a real or simulated database.
+In summary, unit tests are more focused and isolated, testing individual units or components, while functionality tests are broader, testing the overall functionality and integration of the application. Both types of tests are important for ensuring the quality and reliability of your Spring Boot application.
+
+
+
+
